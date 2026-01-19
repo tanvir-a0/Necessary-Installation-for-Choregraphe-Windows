@@ -1,0 +1,2 @@
+choregraphe-suite-2.8.7.4-win64-vs2015-setup* filter=lfs diff=lfs merge=lfs -text
+choregraphe-suite-2.8.7.4-win64-vs2015-setup.exe filter=lfs diff=lfs merge=lfs -text
