@@ -4,6 +4,9 @@ This directory contains all the required files (or at least the ones I installed
 <br>
 The NAO robot runs correctly overall. However, there is a known issue: the “Run” button in Choregraphe works as expected, but the “Stop” button does not function properly.
 <br>
+Here, you can find the choregraphe-suite-2.5.10.7, which supports pepper robot with it's older firmware. 
+<br>
 <br>
 Note: Install vcredist_x86.exe first then install vcredist_x64.exe second. Same for other files too (I did in this way). 
+
 
